@@ -10,7 +10,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
+        <samp>&gt; Hey There!, I am  
                 <b><a target="_blank" href="">RAVEYUS</a></b>
         </samp>
 </h3>
