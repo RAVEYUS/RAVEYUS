@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/e2/d4/5c/e2d45c1474a5b514be7d10cd47ed26b4.jpg" height="210" width="1000" alt="coding">
+  <img src="https://i.pinimg.com/736x/e2/d4/5c/e2d45c1474a5b514be7d10cd47ed26b4.jpg" height="210" width="720" alt="coding">
 </p>
 
 <a href="https://komarev.com/ghpvc/?username=RAVEYUS">
