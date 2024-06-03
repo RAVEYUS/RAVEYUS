@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://i.pinimg.com/736x/e2/d4/5c/e2d45c1474a5b514be7d10cd47ed26b4.jpg" height="210" alt="coding">
+</p>
 
 <a href="https://komarev.com/ghpvc/?username=RAVEYUS">
   <img align="right" src="https://komarev.com/ghpvc/?username=RAVEYUS&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
