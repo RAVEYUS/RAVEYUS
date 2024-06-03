@@ -80,7 +80,7 @@
 <p align="center">
   <a href="https://github.com/RAVEYUS">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAVEYUS
-&theme=radical&border=#F85D7F&background=0D1117" alt="RAVEYUS's GitHub streak"/>
+&theme=radical&border=#FFFFFF&background=0D1117" alt="RAVEYUS's GitHub streak"/>
   </a>
 </p>
 
