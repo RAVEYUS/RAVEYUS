@@ -64,12 +64,11 @@
 <br/>
 
 ## Top Open Source -
-<div align="center">
 [![REST_API](https://github-readme-stats.vercel.app/api/pin/?username=RAVEYUS&repo=REST_API&border_color=#9CC3D5FF&bg_color=0D1117&title_color=#ADEFD1FF&text_color=#FCF6F5FF&icon_color=#9CC3D5FF)](https://github.com/RAVEYUS/REST_API)
 [![decompressor](https://github-readme-stats.vercel.app/api/pin/?username=RAVEYUS&repo=decompressor&border_color=#9CC3D5FF&bg_color=0D1117&title_color=#ADEFD1FF&text_color=#FCF6F5FF&icon_color=#9CC3D5FF)](https://github.com/RAVEYUS/decompressor)
 [![Blog-App](https://github-readme-stats.vercel.app/api/pin/?username=RAVEYUS&repo=Blog-app&border_color=#9CC3D5FF&bg_color=0D1117&title_color=#ADEFD1FF&text_color=#FCF6F5FF&icon_color=#9CC3D5FF)](https://github.com/RAVEYUS/Blog-app)
 [![ChatgptDiscordBot](https://github-readme-stats.vercel.app/api/pin/?username=RAVEYUS&repo=ChatgptDiscordbot&border_color=#9CC3D5FF&bg_color=0D1117&title_color=#ADEFD1FF&text_color=#FCF6F5FF&icon_color=#9CC3D5FF)](https://github.com/RAVEYUS/ChatgptDiscordbot)
-</div>
+
 
 
 <p align="center">
@@ -94,7 +93,7 @@
 
 <a> 
     <a href="https://github.com/RAVEYUS"><img alt="RAVEYUS's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=RAVEYUS&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/RAVEYUS"><img alt="RAVEYUS's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alsiam&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/RAVEYUS"><img alt="RAVEYUS's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=RAVEYUS&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
