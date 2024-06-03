@@ -96,4 +96,4 @@
 </a>
 
 
-![RAVEYUS's Graph](https://github-readme-activity-graph.vercel.app/graph?username=RAVEYUS&custom_title=RAVEYUS's%20GitHub%20Activity%20Graph&bg_color=F85D7F&color=#9CC3D5FF&line=#9CC3D5FF&point=#9CC3D5FF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![RAVEYUS's Graph](https://github-readme-activity-graph.vercel.app/graph?username=RAVEYUS&custom_title=RAVEYUS's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
