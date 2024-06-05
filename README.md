@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDl2ZnRlZ2NkM2JydDdyc3F4N3N5ZTJnNWptN2Q4bG85OW84ODFmdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QVgwPD98gFG9HLn1no/giphy.webp" height="600" width="950" alt="coding">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDl2ZnRlZ2NkM2JydDdyc3F4N3N5ZTJnNWptN2Q4bG85OW84ODFmdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QVgwPD98gFG9HLn1no/giphy.webp" height="450" width="950" alt="coding">
 </p>
 
 <a href="https://komarev.com/ghpvc/?username=RAVEYUS">
