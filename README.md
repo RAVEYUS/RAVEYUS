@@ -39,22 +39,14 @@ I use a modern stack focused on Type-safety and low-latency performance.
 
 ### <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&color=B4BEFE&vCenter=true&width=350&lines=Contribution+Graph" />
 
-<br/>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RAVEYUS/RAVEYUS/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RAVEYUS/RAVEYUS/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RAVEYUS/RAVEYUS/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-<br/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAVEYUS&bg_color=1e1e2e&color=b4befe&line=b4befe&point=cba6f7&area=true&hide_border=true&font=JetBrains+Mono" width="100%" alt="Contribution Graph" />
+</p>
 
 ---
 
-### <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&color=B4BEFE&vCenter=true&width=350&lines=04+.+Development+Metrics" />
+### <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&color=B4BEFE&vCenter=true&width=350&lines=Development+Metrics" />
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RAVEYUS&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=b4befe&icon_color=b4befe&text_color=cdd6f4" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAVEYUS&langs_count=8&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=b4befe&text_color=cdd6f4" width="48%" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAVEYUS&theme=catppuccin_mocha&background=1e1e2e&fire=b4befe&ring=b4befe&hide_border=true&stroke=b4befe" width="100%" />
 </div>
